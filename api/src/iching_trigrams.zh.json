@@ -1,0 +1,10 @@
+{
+  "111": { "name": "乾", "pinyin": "Qian", "nature": "天", "keywords": ["刚健", "进取", "自强", "原则"] },
+  "000": { "name": "坤", "pinyin": "Kun", "nature": "地", "keywords": ["柔顺", "承载", "配合", "稳守"] },
+  "010": { "name": "坎", "pinyin": "Kan", "nature": "水", "keywords": ["险", "流动", "谨慎", "应变"] },
+  "101": { "name": "离", "pinyin": "Li", "nature": "火", "keywords": ["明", "洞察", "依附", "表达"] },
+  "001": { "name": "震", "pinyin": "Zhen", "nature": "雷", "keywords": ["动", "启动", "惊醒", "决断"] },
+  "110": { "name": "巽", "pinyin": "Xun", "nature": "风", "keywords": ["入", "渗透", "柔中有刚", "顺势"] },
+  "100": { "name": "艮", "pinyin": "Gen", "nature": "山", "keywords": ["止", "边界", "守静", "收敛"] },
+  "011": { "name": "兑", "pinyin": "Dui", "nature": "泽", "keywords": ["悦", "沟通", "协商", "取信"] }
+}

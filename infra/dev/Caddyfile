@@ -1,0 +1,14 @@
+:8080 {
+  # 1) 本地热重载的 Edge Functions（把 /functions/v1/* strip 成 /*）
+  @functions path /functions/v1/*
+  handle @functions {
+    uri strip_prefix /functions/v1
+    reverse_proxy functions:8000
+  }
+
+  # 2) 其他 Supabase 服务（auth/rest/realtime/storage/graphql 等）全部转发到现有自托管 Supabase
+  handle {
+    reverse_proxy {env.SUPABASE_UPSTREAM_URL}
+  }
+}
+

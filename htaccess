@@ -1,0 +1,24 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_URI} ^/api/ [NC]
+RewriteRule .* - [L]
+
+RewriteCond %{REQUEST_URI} ^/nodejs/api/ [NC]
+RewriteRule .* - [L]
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule .* - [L]
+
+RewriteRule ^ index.html [L]
+
+PassengerAppRoot /home/u788241291/domains/slategray-zebra-243016.hostingersite.com/nodejs
+PassengerAppType node
+PassengerNodejs /opt/alt/alt-nodejs22/root/bin/node
+PassengerStartupFile server.js
+PassengerBaseURI /
+PassengerRestartDir /home/u788241291/domains/slategray-zebra-243016.hostingersite.com/nodejs/tmp
+SetEnv NODE_OPTIONS "--require /home/u788241291/domains/slategray-zebra-243016.hostingersite.com/public_html/.builds/config/preload-timestamp.js"
+SetEnv LSNODE_CONSOLE_LOG console.log
+RewriteRule ^\.builds - [F,L]

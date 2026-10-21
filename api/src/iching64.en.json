@@ -1,0 +1,898 @@
+[
+  {
+    "id": 1,
+    "name": "乾为天",
+    "binary": "111111",
+    "judgment": "THE CREATIVE works sublime success, Furthering through perseverance.",
+    "lines": [
+      "Hidden dragon. Do not act.",
+      "Dragon appearing in the field.\nIt furthers one to see the great man.",
+      "All day long the superior man is creatively active.\nAt nightfall his mind is still beset with cares.\nDanger. No blame.",
+      "Wavering flight over the depths.\nNo blame.",
+      "Flying dragon in the heavens.\nIt furthers one to see the great man.",
+      "Arrogant dragon will have cause to repent."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "坤为地",
+    "binary": "000000",
+    "judgment": "THE RECEPTIVE brings about sublime success,\nFurthering through the perseverance of a mare.\nIf the superior man undertakes something and tries to lead,\nHe goes astray;\nBut if he follows, he finds guidance.\nIt is favorable to find friends in the west and south,\nTo forego friends in the east and north.\nQuiet perseverance brings good fortune.",
+    "lines": [
+      "When there is hoarfrost underfoot,\nSolid ice is not far off.",
+      "Straight, square, great.\nWithout purpose,\nYet nothing remains unfurthered.",
+      "Hidden lines.\nOne is able to remain persevering.\nIf by chance you are in the service of a king,\nSeek not works, but bring to completion.",
+      "A tied-up sack. No blame, no praise.",
+      "A yellow lower garment brings supreme good fortune.",
+      "Dragons fight in the meadow.\nTheir blood is black and yellow."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "水雷屯",
+    "binary": "010001",
+    "judgment": "DIFFICULTY AT THE BEGINNING works supreme success,\nFurthering through perseverance.\nNothing should be undertaken.\nIt furthers one to appoint helpers.",
+    "lines": [
+      "Hesitation and hindrance.\nIt furthers one to remain persevering.\nIt furthers one to appoint helpers.",
+      "Difficulties pile up.\nHorse and wagon part.\nHe is not a robber;\nHe wants to woo when the time comes.\nThe maiden is chaste,\nShe does not pledge herself.\nTen years--then she pledges herself.",
+      "Whoever hunts deer without the forester\nOnly loses his way in the forest.\nThe superior man understands the signs of the time\nAnd prefers to desist.\nTo go on brings humiliation.",
+      "Horse and wagon part.\nStrive for union.\nTo go brings good fortune.\nEverything acts to further.",
+      "Difficulties in blessing.\nA little perseverance brings good fortune.\nGreat perseverance brings misfortune.",
+      "Horse and wagon part.\nBloody tears flow."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "山水蒙",
+    "binary": "100010",
+    "judgment": "YOUTHFUL FOLLY has success.\nIt is not I who seek the young fool;\nThe young fool seeks me.\nAt the first oracle I inform him.\nIf he asks two or three times, it is importunity.\nIf he importunes, I give him no information.\nPerseverance furthers.",
+    "lines": [
+      "To make a fool develop\nIt furthers one to apply discipline.\nThe fetters should be removed.\nTo go on in this way bring humiliation.",
+      "To bear with fools in kindliness brings good fortune.\nTo know how to take women\nBrings good fortune.\nThe son is capable of taking charge of the household.",
+      "Take not a maiden who. When she sees a man of bronze,\nLoses possession of herself.\nNothing furthers.",
+      "Entangled folly bring humiliation.",
+      "Childlike folly brings good fortune.",
+      "In punishing folly\nIt does not further one\nTo commit transgressions.\nThe only thing that furthers\nIs to prevent transgressions."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "水天需",
+    "binary": "010111",
+    "judgment": "WAITING. If you are sincere,\nYou have light and success.\nPerseverance brings good fortune.\nIt furthers one to cross the great water.",
+    "lines": [
+      "Waiting in the meadow.\nIT furthers one to abide in what endures.\nNo blame.",
+      "Waiting on the sand.\nThere is some gossip.\nThe end brings good fortune.",
+      "Waiting in the mud\nBrings about the arrival of the enemy.",
+      "Waiting in blood.\nGet out of the pit.",
+      "Waiting at meat and drink.\nPerseverance brings good fortune.",
+      "One falls into the pit.\nThree uninvited guests arrive.\nHonor them, and in the end there will be good fortune."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "天水讼",
+    "binary": "111010",
+    "judgment": "CONFLICT. You are sincere\nAnd are being obstructed.\nA cautious halt halfway brings good fortune.\nGoing through to the end brings misfortune.\nIt furthers one to see the great man.\nIt does not further one to cross the great water.",
+    "lines": [
+      "If one does not perpetuate the affair,\nThere is a little gossip.\nIn the end, good fortune comes.",
+      "One cannot engage in conflict;\nOne returns home, gives way.\nThe people of his town,\nThree hundred households,\nRemain free of guilt.",
+      "To nourish oneself on ancient virtue induces perseverance.\nDanger. In the end, good fortune comes.\nIf by chance you are in the service of a king,\nSeek not works.",
+      "One cannot engage in conflict.\nOne turns back and submits to fate,\nChanges one's attitude,\nAnd finds peace in perseverance.\nGood fortune.",
+      "To contend before him\nBrings supreme good fortune.",
+      "Even if by chance a leather belt is bestowed on one,'\nBy the end of a morning\nIt will have been snatched away three times."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "地水师",
+    "binary": "000010",
+    "judgment": "THE ARMY. The army needs perseverance\nAnd a strong man.\nGood fortune without blame.\n\nAn army is a mass that needs organization in order to become a fighting force.",
+    "lines": [
+      "An army must set forth in proper order.\nIf the order is not good, misfortune threatens.",
+      "In the midst of the army.\nGood fortune. No blame.\nThe king bestows a triple decoration.",
+      "Perchance the army carries corpses in the wagon.\nMisfortune.",
+      "The army retreats. No blame.",
+      "There is game in the field.\nIt furthers one to catch it.\nWithout blame.\nLet the eldest lead the army.\nThe younger transports corpses;\nThen perseverance brings misfortune.",
+      "The great prince issues commands,\nFounds states, vests families with fiefs.\nInferior people should not be employed."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "水地比",
+    "binary": "010000",
+    "judgment": "HOLDING TOGETHER brings good fortune.\nInquire of the oracle once again\nWhether you possess sublimity, constancy, and perseverance;\nThen there is no blame.\n\nThose who are uncertain gradually join.\nWhoever come too late\nMeets with misfortune.",
+    "lines": [
+      "Hold to him in truth and loyalty;\nThis is without blame.\nTruth, like a full earthen bowl\"\nThus in the end\nGood fortune comes from without.",
+      "Hold to him inwardly.\nPerseverance brings good fortune.",
+      "You hold together with the wrong people.",
+      "Hold to him outwardly also.\nPerseverance brings good fortune.",
+      "Manifestation of holding together.\nIn the hunt the king uses beaters on three sides only\nAnd forgoes game that runs off in front.\nThe citizens need no warning.\nGood fortune.",
+      "He finds no head for holding together.\nMisfortune."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "风天小畜",
+    "binary": "110111",
+    "judgment": "THE TAMING POWER OF THE SMALL\nHas success.\nDense clouds, no rain from our western region.",
+    "lines": [
+      "Return to the way.\nHow could there be blame in this?\nGood fortune.",
+      "He allows himself to be drawn into returning.\nGood fortune.",
+      "The spokes burst out of the wagon wheels.\nMan and wife roll their eyes.",
+      "If you are sincere, blood vanishes and fear gives way.\nNo blame.",
+      "If you are sincere and loyally attached,\nYou are rich in your neighbor.",
+      "The rain comes, there is rest.\nThis is due to the lasting effect of character.\nPerseverance brings the woman into danger.\nThe moon is nearly full.\nIf the superior man persists,\nMisfortune comes."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "天泽履",
+    "binary": "111011",
+    "judgment": "TREADING. Treading upon the tail of the tiger.\nIt does not bite the man. Success.",
+    "lines": [
+      "Simple conduct. Progress without blame.",
+      "Treading a smooth, level course.\nThe perseverance of a dark man\nBrings good fortune.",
+      "A one-eyed man is able to see,\nA lame man is able to tread.\nHe treads on the tail of the tiger.",
+      "He treads on the tail of the tiger.\nCaution and circumspection\nLead ultimately to good fortune.",
+      "Resolute conduct.\nPerseverance with awareness of danger.",
+      "Look to your conduct and weigh the favorable signs.\nWhen everything is fulfilled, supreme good fortune comes."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "地天泰",
+    "binary": "000111",
+    "judgment": "PEACE. The small departs,\nThe great approaches.\nGood fortune. Success.",
+    "lines": [
+      "When ribbon grass is pulled up, the sod comes with it.\nEach according to his kind.\nUndertakings bring good fortune.",
+      "Bearing with the uncultured in gentleness,\nFording the river with resolution,\nNot neglecting what is distant,\nNot regarding one's companions:",
+      "No plain not followed by a slope.\nNo going not followed by a return.\nHe who remains persevering in danger\nIs without blame.\nDo not complain about this truth;\nEnjoy the good fortune you still possess.",
+      "He flutters down, not boasting of his wealth,\nTogether with his neighbor,\nGuileless and sincere.",
+      "The sovereign I\nGives his daughter in marriage.\nAnd supreme good fortune.",
+      "The wall falls back into the moat.\nUse no army now.\nMake your commands known within your own town.\nPerseverance brings humiliation."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "天地否",
+    "binary": "111000",
+    "judgment": "STANDSTILL. Evil people do not further\nThe perseverance of the superior man.\nThe great departs; the small approaches.",
+    "lines": [
+      "When ribbon grass is pulled up, the sod comes with it.\nEach according to his kind.\nPerseverance brings good fortune and success.",
+      "They bear and endure;\nThis means good fortune for inferior people.\nThe standstill serves to help the great man to attain success.",
+      "They bear shame.",
+      "He who acts at the command of the highest\nRemains without blame.\nThose of like mind partake of the blessing.",
+      "Standstill is giving way.\nGood fortune for the great man.\n\"What if it should fail, what if it should fail?\"\nIn this way he ties it to a cluster of mulberry shoots.",
+      "The standstill comes to an end.\nFirst standstill, then good fortune."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "天火同人",
+    "binary": "111101",
+    "judgment": "FELLOWSHIP WITH MEN in the open.\n\nSuccess.\nIt furthers one to cross the great water.\nThe perseverance of the superior man furthers.",
+    "lines": [
+      "Fellowship with men at the gate.\nNo blame.",
+      "Fellowship with men in the clan.\nHumiliation.",
+      "He hides weapons in the thicket;\nHe climbs the high hill in front of it.\nFor three years he does not rise up.",
+      "He climbs up on his wall; he cannot attack.\nGood fortune.",
+      "Men bound in fellowship first weep and lament,\nBut afterward they laugh.\nAfter great struggles they succeed in meeting.",
+      "Fellowship with men in the meadow.\nNo remorse."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "火天大有",
+    "binary": "101111",
+    "judgment": "POSSESSION IN GREAT MEASURE.\n\nSupreme success.",
+    "lines": [
+      "No relationship with what is harmful;\nThere is no blame in this.\nIf one remains conscious of difficulty,\nOne remains without blame.",
+      "A big wagon for loading.\nOne may undertake something.\nNo blame.",
+      "A prince offers it to the Son of Heaven.\nA petty man cannot do this.",
+      "He makes a difference\nBetween himself and his neighbor.\nNo blame.",
+      "He whose truth is accessible, yet dignified,\nHas good fortune.",
+      "He is blessed by heaven.\nGood fortune.\nNothing that does not further."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "地山谦",
+    "binary": "000100",
+    "judgment": "MODESTY creates success.\n\n. The superior man carries things through.",
+    "lines": [
+      "A superior man modest about his modesty\nMay cross the great water.\nGood fortune.",
+      "Modesty that comes to expression. Perseverance brings good fortune.",
+      "A superior man of modesty and merit\nCarries things to conclusion.\nGood fortune.",
+      "Nothing that would not further modesty\nIn movement.",
+      "No boasting of wealth before one's neighbor.\nIt is favorable to attack with force.\nNothing that would not further.",
+      "Modesty that comes to expression.\nIt is favorable to set armies marching\nTo chastise one's own city and one's country."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "雷地豫",
+    "binary": "001000",
+    "judgment": "ENTHUSIASM. It furthers one to install helpers\nAnd to set armies marching.",
+    "lines": [
+      "Enthusiasm that expresses itself\nBrings misfortune.",
+      "Firm as a rock. Not a whole day.\nPerseverance brings good fortune.",
+      "Enthusiasm that looks upward creates remorse.\nHesitation brings remorse.",
+      "The source of enthusiasm.\nHe achieves great things.\nDoubt not.\nYou gather friends around you\nAs a hair clasp gathers the hair.",
+      "Persistently ill, and still does not die.",
+      "Deluded enthusiasm.\nBut if after completion one changes,\nThere is no blame."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "泽雷随",
+    "binary": "011001",
+    "judgment": "FOLLOWING has supreme success.\nPerseverance furthers. No blame.",
+    "lines": [
+      "The standard is changing.\nPerseverance brings good fortune.\nTo go out of the door in company\nProduces deeds.",
+      "If one clings to the little boy,\nOne loses the strong man.",
+      "If one clings to the strong man,\nOne loses the little boy.",
+      "Following creates success.\nPerseverance brings misfortune.\nTo go one's way with sincerity brings clarity.\nHow could there be blame in this?",
+      "Sincere in the good. Good fortune.",
+      "He meets with firm allegiance\nAnd is still further bound.\nThe king introduces him\nTo the Western Mountain."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "山风蛊",
+    "binary": "100110",
+    "judgment": "WORK ON WHAT HAS BEEN SPOILED\nHas supreme success.\nIt furthers one to cross the great water.\nBefore the starting point, three days.\nAfter the starting point, three days.",
+    "lines": [
+      "Setting right what has been spoiled by the father.\nIf there is a son,\nNo blame rests upon the departed father.\nDanger. In the end good fortune.",
+      "Setting right what has been spoiled by the mother.\nOne must not be too persevering.",
+      "Setting right what has been spoiled by the father.\nThere will be a little remorse. No great blame.",
+      "Tolerating what has been spoiled by the father.\nIn continuing one sees humiliation.",
+      "Setting right what has been spoiled by the father.\nOne meets with praise.",
+      "He does not serve kings and princes,\nSets himself higher goals."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "地泽临",
+    "binary": "000011",
+    "judgment": "APPROACH has supreme success.\nPerseverance furthers.\nWhen the eighth month comes,\n\n. There will be misfortune.",
+    "lines": [
+      "Joint approach.\nPerseverance brings good fortune.",
+      "Joint approach.\nGood fortune.\nEverything furthers.",
+      "Comfortable approach.\nNothing that would further.\nIf one is induced to grieve over it,\nOne becomes free of blame.",
+      "Complete approach.\nNo blame.",
+      "Wise approach.\nThis is right for a great prince.\nGood fortune.",
+      "Great hearted approach.\nGood-hearted approach.\nGood fortune. No blame."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "风地观",
+    "binary": "110000",
+    "judgment": "CONTEMPLATION. The ablution has been made,\nBut not yet the offering.\nFull of trust they look up to him.",
+    "lines": [
+      "Boy like contemplation.\nFor an inferior man, no blame.\nFor a superior man, humiliation.",
+      "Contemplation through the crack of the door.\nFurthering for the perseverance of a woman.",
+      "Contemplation of my life\nDecides the choice\nBetween advance and retreat.",
+      "Contemplation of the light of the kingdom.\nIt furthers one to exert influence as the guest of a king.",
+      "Contemplation of my life.\nThe superior man is without blame.",
+      "Contemplation of his life.\nThe superior man is without blame."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "火雷噬嗑",
+    "binary": "101001",
+    "judgment": "BITING THROUGH has success.\nIt is favorable to let justice be administered.",
+    "lines": [
+      "His feet are fastened in the stocks,\nSo that his toes disappear.\nNo blame.",
+      "Bites through tender meat,\nSo that his nose disappears.\nNo blame.",
+      "Bites on old dried meat\nAnd strikes on something poisonous.\nSlight humiliation. No blame.",
+      "Bites on dried gristly meat.\nReceives metal arrows.\nIt furthers one to be mindful of difficulties\nAnd to be persevering.\nGood fortune.",
+      "Bites on dried lean meat.\nReceives yellow gold.\nPerseveringly aware of danger.",
+      "His neck is fastened in the wooden cangue,\nSo that his ears disappear.\nMisfortune."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "山火贲",
+    "binary": "100101",
+    "judgment": "GRACE has success.\nIn small matters\nIt is favorable to undertake something.",
+    "lines": [
+      "He lends grace to his toes, leaves the carriage, and walks.",
+      "Lends grace to the beard on his chin.",
+      "Graceful and moist.\nConstant perseverance brings good fortune.",
+      "Grace or simplicity?\nA white horse comes as if on wings.\nHe is not a robber,\nHe will woo at the right time.",
+      "Grace in the hills and gardens.\nThe roll of silk is meager and small.\nHumiliation, but in the end good fortune.",
+      "Simple grace. No blame."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "山地剥",
+    "binary": "100000",
+    "judgment": "SPLITTING APART. IT does not further one\nTo go anywhere.",
+    "lines": [
+      "The leg of the bed is split.\nThose who persevere are destroyed.\nMisfortune.",
+      "The bed is split at the edge.\nThose who persevere are destroyed.\nMisfortune.",
+      "He splits with them. No blame.",
+      "The bed is split up to the skin.\nMisfortune.",
+      "A shoal of fishes. Favor comes through the court ladies.\nEverything acts to further.",
+      "There is a large fruit still uneaten.\nThe superior man receives a carriage.\nThe house of the inferior man is split apart."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "地雷复",
+    "binary": "000001",
+    "judgment": "RETURN. Success.\nGoing out and coming in without error.\nFriends come without blame.\nTo and fro goes the way.\nOn the seventh day comes return.\nIt furthers one to have somewhere to go.",
+    "lines": [
+      "Return from a short distance.\nNo need for remorse.\nGreat good fortune.",
+      "Quiet return. Good fortune.",
+      "Repeated return. Danger. No blame.",
+      "Walking in the midst of others,\nOne returns alone.",
+      "Noblehearted return. No remorse.",
+      "Missing the return. Misfortune.\nMisfortune from within and without.\nIf armies are set marching in this way,\nOne will in the end suffer a great defeat,\nDisastrous for the ruler of the country.\nFor ten years\nIt will not be possible to attack again."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "天雷无妄",
+    "binary": "111001",
+    "judgment": "INNOCENCE. Supreme success.\nPerseverance furthers.\nIf someone is not as he should be,\nHe has misfortune,\nAnd it does not further him\nTo undertake anything.",
+    "lines": [
+      "Innocent behavior brings good fortune.",
+      "If one does not count on the harvest while plowing,",
+      "Undeserved misfortune.",
+      "He who can be persevering\nRemains without blame.",
+      "Use no medicine in an illness\nIncurred through no fault of your own.\nIt will pass of itself.",
+      "Innocent action brings misfortune."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "山天大畜",
+    "binary": "100111",
+    "judgment": "THE TAMING POWER OF THE GREAT.\nPerseverance furthers.\n\nNot eating at home brings good fortune.\nIt furthers one to cross the great water.",
+    "lines": [
+      "Danger is at hand. It furthers one to desist.",
+      "The axletrees are taken from the wagon.",
+      "A good horse that follows others.\nAwareness of danger,\nWith perseverance, furthers.\nPractice chariot driving and armed defense daily.\nIt furthers one to have somewhere to go.",
+      "The headboard of a young bull.\nGreat good fortune.",
+      "The tusk of a gelded boar.\nGood fortune.",
+      "One attains the way of heaven."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "山雷颐",
+    "binary": "100001",
+    "judgment": "THE CORNERS OF THE MOUTH.\nPerseverance brings good fortune.\nPay heed to the providing of nourishment\nAnd to what a man seeks\n\nTo fill his own mouth with.\n\nIn bestowing care and nourishment, it is important that the right people should be taken care of and that we should attend to our own nourishment in the right way. If we wish to know what anyone is like, we have only to observe on whom he bestows his care and what sides of his own nature he cultivates and nourishes. Nature nourishes all creatures. The great man fosters and takes care of superior men, in order to take care of all men through them. Mencius says about this:",
+    "lines": [
+      "You let your magic tortoise go,\nAnd look at me with the corners of your mouth drooping.\nMisfortune.",
+      "Turning to the summit for nourishment,\nDeviating from the path",
+      "Turning away from nourishment.\nPerseverance brings misfortune.\nDo not act thus for ten years.",
+      "Turning to the summit\nFor provision of nourishment\nBrings good fortune.",
+      "Turning away from the path.",
+      "The source of nourishment.\nAwareness of danger brings good fortune.\nIt furthers one to cross the great water."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "泽风大过",
+    "binary": "011110",
+    "judgment": "PREPONDERANCE OF THE GREAT.\n\nThe ridgepole sags to the breaking point.\nIt furthers one to have somewhere to go.\n\nSuccess.",
+    "lines": [
+      "To spread white rushes underneath.",
+      "A dry poplar sprouts at the root.\nAn older man takes a young wife.\nEverything furthers.",
+      "The ridgepole sags to the breaking point.\nMisfortune.",
+      "The ridgepole is braced. Good fortune.\nIf there are ulterior motives, it is humiliating.",
+      "A withered poplar puts forth flowers.\nAn older woman takes a husband.",
+      "One must go through the water.\nIt goes over one's head.\nMisfortune. No blame."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "坎为水",
+    "binary": "010010",
+    "judgment": "The Abysmal repeated.\nIf you are sincere, you have success in your heart,\nAnd whatever you do succeeds.",
+    "lines": [
+      "Repetition of the Abysmal.\nIn the abyss one falls into a pit.\nMisfortune.",
+      "The abyss is dangerous.\nOne should strive to attain small things only.",
+      "Forward and backward, abyss on abyss.\nIn danger like this, pause at first and wait,\nOtherwise you will fall into a pit in the abyss.\nDo not act this way.",
+      "A jug of wine, a bowl of rice with it;\nEarthen vessels",
+      "The abyss is not filled to overflowing,\nIt is filled only to the rim.",
+      "Bound with cords and ropes,"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "离为火",
+    "binary": "101101",
+    "judgment": "THE CLINGING. Perseverance furthers.\nIt brings success.\nCare of the cow brings good fortune.",
+    "lines": [
+      "The footprints run crisscross.\nIf one is seriously intent, no blame.",
+      "Yellow light. Supreme good fortune.",
+      "In the light of the setting sun,\nMen either beat the pot and sing\nOr loudly bewail the approach of old age.\nMisfortune.",
+      "Its coming is sudden;\nIt flames up, dies down, is thrown away.",
+      "Tears in floods, sighing and lamenting.\nGood fortune.",
+      "The king used him to march forth and chastise."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "泽山咸",
+    "binary": "011100",
+    "judgment": "Influence. Success.\nPerseverance furthers.\n\nTo take a maiden to wife brings good fortune.",
+    "lines": [
+      "The influence shows itself in the big toe.",
+      "The influence shows itself in the calves of the legs.\nMisfortune.",
+      "The influence shows itself in the thighs.\nHolds to that which follows it.",
+      "Perseverance brings good fortune.\nRemorse disappears.\nIf a man is agitated in mind,\nAnd his thoughts go hither and thither,\nOnly those friends\nOn whom he fixes his conscious thoughts\nWill follow.",
+      "The influence shows itself in the back of the neck.",
+      "The influence shows itself in the jaws, cheeks, and tongue."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "雷风恒",
+    "binary": "001110",
+    "judgment": "DURATION. Success. No blame.\nPerseverance furthers.\nIt furthers one to have somewhere to go.",
+    "lines": [
+      "Seeking duration too hastily brings misfortune persistently.",
+      "Remorse disappears.",
+      "He who does not give duration to his character\nMeets with disgrace.\nPersistent humiliation.",
+      "No game in the field.",
+      "Giving duration to one's character through perseverance.",
+      "Restlessness as an enduring condition brings misfortune."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "天山遯",
+    "binary": "111100",
+    "judgment": "RETREAT. Success.\nIn what is small, perseverance furthers.",
+    "lines": [
+      "At the tail in retreat. This is dangerous.\nOne must not wish to undertake anything.",
+      "he holds him fast with yellow oxhide.",
+      "A halted retreat\nIs nerve-wracking and dangerous.",
+      "Voluntary retreat brings good fortune to the superior man\nAnd downfall to the inferior man.",
+      "Friendly retreat. Perseverance brings good fortune.",
+      "Cheerful retreat. Everything serves to further."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "雷天大壮",
+    "binary": "001111",
+    "judgment": "THE POWER OF THE GREAT. Perseverance furthers.",
+    "lines": [
+      "Power in the toes.\nContinuing brings misfortune.",
+      "Perseverance brings good fortune.",
+      "The inferior man works through power.",
+      "Perseverance brings good fortune.\nRemorse disappears.",
+      "Loses the goat with ease.",
+      "A goat butts against a hedge.\nIt cannot go backward, it cannot go forward."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "火地晋",
+    "binary": "101000",
+    "judgment": "PROGRESS. The powerful prince\nIs honored with horses in large numbers.\nIn a single day he is granted audience three times.\n\nAs an example of progress, this pictures a time when a powerful feudal lord rallies the other lords around the sovereign and pledges fealty and peace. The sovereign rewards him richly and invites him to a closer intimacy.",
+    "lines": [
+      "Progressing, but turned back.\nPerseverance brings good fortune.\nIf one meets with no confidence, one should remain calm.",
+      "Progressing, but in sorrow.\nPerseverance brings good fortune.",
+      "All are in accord. Remorse disappears.",
+      "Progress like a hamster.\nPerseverance brings danger.",
+      "Remorse disappears.",
+      "Making progress with the horns is permissible\nOnly for the purpose of punishing one's own city."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "地火明夷",
+    "binary": "000101",
+    "judgment": "DARKENING OF THE LIGHT. In adversity\nIt furthers one to be persevering.",
+    "lines": [
+      "Darkening of the light during flight.\nHe lowers his wings.",
+      "Darkening of the light injures him in the left thigh.\nHe gives aid with the strength of a horse.\nGood fortune.",
+      "Darkening of the light during the hunt in the south.",
+      "He penetrates the left side of the belly.\nOne gets at the very heart of the darkening of the light.",
+      "Darkening of the light as with Prince Chi.\nPerseverance furthers.",
+      "Not light but darkness.\nFirst he climbed up to heaven,"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "风火家人",
+    "binary": "110101",
+    "judgment": "THE FAMILY. The perseverance of the woman furthers.",
+    "lines": [
+      "Firm seclusion within the family.\nRemorse disappears.",
+      "She should not follow her whims.",
+      "When tempers flare up in the family,",
+      "She is the treasure of the house.\nGreat good fortune.",
+      "As a king he approaches his family.\nFear not.\nGood fortune.",
+      "His work commands respect.'\nIn the end good fortune comes."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "火泽睽",
+    "binary": "101011",
+    "judgment": "OPPOSITION. In small matters, good fortune.",
+    "lines": [
+      "Remorse disappears.\nIf you lose your horse, do not run after it;\nIt will come back of its own accord.\nWhen you see evil people,\nGuard yourself against mistakes.",
+      "One meets his lord in a narrow street.",
+      "One sees the wagon dragged back,",
+      "Isolated through opposition,\nOne meets a like-minded man\nWith whom one can associate in good faith.\nDespite the danger, no blame.",
+      "Remorse disappears.",
+      "Isolated through opposition,\nOne sees one's companion as a pig covered with dirt,\nAs a wagon full of devils.\nFirst one draws a bow against him,"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "水山蹇",
+    "binary": "010100",
+    "judgment": "OBSTRUCTION. The southwest furthers.\n\nThe northeast does not further.\nIt furthers one to see the great man.\nPerseverance brings good fortune.",
+    "lines": [
+      "Going leads to obstructions,\nComing meets with praise.",
+      "The King's servant is beset by obstruction upon obstruction,\nBut it is not his own fault.",
+      "Going leads to obstructions;\nHence he comes back.",
+      "Going leads to obstructions,\nComing leads to union.",
+      "In the midst of the greatest obstructions,\nFriends come.",
+      "Going leads to obstructions,\nComing leads to great good fortune.\nIt furthers one to see the great man."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "雷水解",
+    "binary": "001010",
+    "judgment": "DELIVERANCE. The southwest furthers.\nIf there is no longer anything where one has to go,\nReturn brings good fortune.\nIf there is still something where one has to go,\nHastening brings good fortune.",
+    "lines": [
+      "Without blame.",
+      "One kills three foxes in the field\nAnd receives a yellow arrow.\nPerseverance brings good fortune.",
+      "If a man carries a burden on his back\nAnd nonetheless rides in a carriage,\nHe thereby encourages robbers to draw near.\nPerseverance leads to humiliation.",
+      "Deliver yourself from your great toe.",
+      "If only the superior man can deliver himself,\nIt brings good fortune.",
+      "The prince shoots at a hawk on a high wall.\nHe kills it. Everything serves to further."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "山泽损",
+    "binary": "100011",
+    "judgment": "DECREASE combined with sincerity\nBrings about supreme good fortune\nWithout blame.\nOne may be persevering in this.\nIt furthers one to undertake something.\nHow is this to be carried out?\nOne may use two small bowls for the sacrifice.",
+    "lines": [
+      "Going quickly when one's tasks are finished\nIs without blame.\nBut one must reflect on how much one may decrease others.",
+      "Perseverance furthers.",
+      "When three people journey together,",
+      "If a man deceases his faults,\nIt makes the other hasten to come and rejoice.",
+      "Someone does indeed increase him.",
+      "If one is increased without depriving other,"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "风雷益",
+    "binary": "110001",
+    "judgment": "INCREASE. It furthers one\n\nTo undertake something.\nIt furthers one to cross the great water.",
+    "lines": [
+      "It furthers one to accomplish great deeds.",
+      "Someone does indeed increase him;",
+      "One is enriched through unfortunate events.",
+      "If you walk in the middle\nAnd report the prince,\nHe will follow.\nIt furthers one to be used\nIn the removal of the capital.",
+      "If in truth you have a kind heart, ask not.",
+      "He brings increase to no one.\nIndeed, someone even strikes him.\nHe does not keep his heart constantly steady.\nMisfortune."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "泽天夬",
+    "binary": "011111",
+    "judgment": "BREAK-THROUGH. One must resolutely make the matter known\nAt the court of the king.\nIt must be announced truthfully. Danger.\nIt is necessary to notify one's own city.\nIt does not further to resort to arms.\nIt furthers one to undertake something.",
+    "lines": [
+      "Mighty in the forward-striding toes.\nWhen one goes and is not equal to the task,\nOne makes a mistake.",
+      "A cry of alarm. Arms at evening and at night.\nFear nothing.",
+      "To be powerful in the cheekbones\nBrings misfortune.",
+      "There is no skin on his thighs,\nAnd walking comes hard.\nIf a man were to let himself be led like a sheep,\nRemorse would disappear.\nBut if these words are heard",
+      "In dealing with weeds,\nFirm resolution is necessary.\nWalking in the middle\nRemains free of blame.",
+      "No cry.\nIn the end misfortune comes."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "天风姤",
+    "binary": "111110",
+    "judgment": "COMING TO MEET. The maiden is powerful.\nOne should not marry such a maiden.",
+    "lines": [
+      "It must be checked with a brake of bronze.\nPerseverance brings good fortune.\nIf one lets it take its course, one experiences misfortune.\nEven a lean pig has it in him to rage around.",
+      "There is a fish in the tank. No blame.\nDoes not further guests.",
+      "And walking comes hard.\nIf one is mindful of the danger,",
+      "No fish in the tank.",
+      "A melon covered with willow leaves.\nHidden lines.",
+      "He comes to meet with his horns.\nHumiliation. No blame."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "泽地萃",
+    "binary": "011000",
+    "judgment": "GATHERING TOGETHER. Success.\n\nThe king approaches his temple.\nIt furthers one to see the great man.\n\nThis brings success. Perseverance furthers.\n\nTo bring great offerings creates good fortune.\nIt furthers one to undertake something.",
+    "lines": [
+      "If you are sincere, but not to the end,",
+      "Letting oneself be drawn\nBrings good fortune and remains blameless.\nIf one is sincere,\nIt furthers one to bring even a small offering.",
+      "Gathering together amid sighs.",
+      "Great good fortune. No blame.",
+      "If in gathering together one has position,",
+      "Lamenting and sighing, floods of tears."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "地风升",
+    "binary": "000110",
+    "judgment": "PUSHING UPWARD has supreme success.\nOne must see the great man.\nFear not.\nDeparture toward the south\nBrings good fortune.",
+    "lines": [
+      "Pushing upward that meets with confidence\nBrings great good fortune.",
+      "If one is sincere,\nIt furthers one to bring even a small offering.",
+      "One pushes upward into an empty city.",
+      "The king offers him Mount Ch'i.\nGood fortune. No blame.",
+      "Perseverance brings good fortune.\nOne pushes upward by steps.",
+      "Pushing upward in darkness.\nIt furthers one"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "泽水困",
+    "binary": "011010",
+    "judgment": "OPPRESSION. Success. Perseverance.\n\nThe great man brings about good fortune.\n\nNo blame.\nWhen one has something to say,\nIt is not believed.",
+    "lines": [
+      "One sits oppressed under a bare tree\nAnd strays into a gloomy valley.\nFor three years one sees nothing.",
+      "One is oppressed while at meat and drink.",
+      "A man permits himself to be oppressed by stone,\nAnd leans on thorns and thistles.\nHe enters the house and does not see his wife.\nMisfortune.",
+      "He comes very quietly, oppressed in a golden carriage.\nHumiliation, but the end is reached.",
+      "His nose and feet are cut off.\nOppression at the hands of the man with the purple knee bands.\nJoy comes softly.\nIt furthers one to make offerings and libations.",
+      "He is oppressed by creeping vines.\nHe moves uncertainly and says, \"Movement brings remorse.\"\nIf one feels remorse over this and makes a start,\nGood fortune comes."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "水风井",
+    "binary": "010110",
+    "judgment": "THE WELL. The town may be changed,\nBut the well cannot be changed.\nIt neither decreases nor increases.\n\nThey come and go and draw from the well.\nIf one gets down almost to the water\nAnd the rope does not go all the way,\nOr the jug breaks, it brings misfortune.",
+    "lines": [
+      "One does not drink the mud of the well.",
+      "At the well hole one shoots fishes.",
+      "The well is cleaned, but no one drinks from it.",
+      "The well is being lined. No blame.",
+      "In the well there is a clear, cold spring\nFrom which one can drink.",
+      "One draws from the well\nWithout hindrance.\nIt is dependable."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "泽火革",
+    "binary": "011101",
+    "judgment": "REVOLUTION. On your own day\nYou are believed.\n\nSupreme success,\nFurthering through perseverance.\nRemorse disappears.",
+    "lines": [
+      "Wrapped in the hide of a yellow cow.",
+      "When one's own day comes, one may create revolution.",
+      "Starting brings misfortune.\nPerseverance brings danger.\nWhen talk of revolution has gone the rounds three times,\nOne may commit himself,\nAnd men will believe him.",
+      "Remorse disappears. Men believe him.\nChanging the form of government brings good fortune.",
+      "The great man changes like a tiger.\nEven before he questions the oracle\nHe is believed.",
+      "The superior man changes like a panther."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "火风鼎",
+    "binary": "101110",
+    "judgment": "THE CALDRON. Supreme good fortune.\n\nSuccess.",
+    "lines": [
+      "A ting with legs upturned.\nFurthers removal of stagnating stuff.\nOne takes a concubine for the sake of her son.",
+      "There is food in the ting.\nMy comrades are envious,\nBut they cannot harm me.\nGood fortune.",
+      "The handle of the ting is altered.\nOne is impeded in his way of life.",
+      "The legs of the ting are broken.",
+      "The ting has yellow handles, golden carrying rings.\nPerseverance furthers.",
+      "The ting has rings of jade.\nGreat good fortune."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "震为雷",
+    "binary": "001001",
+    "judgment": "SHOCK brings success.\n\nShock comes-oh, oh!\nLaughing words -ha, ha!\n\nThe shock terrifies for a hundred miles,\nAnd he does not let fall the sacrificial spoon and chalice.",
+    "lines": [
+      "Shock comes-oh, oh!",
+      "Shock comes bringing danger.\nA hundred thousand times\nYou lose your treasures\nAnd must climb the nine hills.\nDo not go in pursuit of them.\nAfter seven days you will get them back again.",
+      "Shock comes and makes one distraught.\nIf shock spurs to action\nOne remains free of misfortune.",
+      "Shock is mired.",
+      "Shock goes hither and thither.\nDanger.\nHowever, nothing at all is lost.\nYet there are things to be done.",
+      "Shock brings ruin and terrified gazing around.\nGoing ahead brings misfortune.\nIf it has not yet touched one's own body\nBut has reached one's neighbor first,"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "艮为山",
+    "binary": "100100",
+    "judgment": "KEEPING STILL. Keeping his back still\n\nSo that he no longer feels his body.\nHe goes into his courtyard\nAnd does not see his people.\n\nNo blame.",
+    "lines": [
+      "Keeping his toes still.",
+      "Keeping his calves still.\nHe cannot rescue him whom he follows.\nHis heart is not glad.",
+      "Keeping his hips still.\nMaking his sacrum stiff.\nDangerous. The heart suffocates.",
+      "Keeping his trunk still.",
+      "Keeping his jaws still.",
+      "Noblehearted keeping still.\nGood fortune."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "风山渐",
+    "binary": "110100",
+    "judgment": "DEVELOPMENT. The maiden\nIs given in marriage.\nGood fortune.\nPerseverance furthers.",
+    "lines": [
+      "The wild goose gradually draws near the shore.",
+      "The wild goose gradually draws near the cliff.\nEating and drinking in peace and concord.\nGood fortune.",
+      "The wild goose gradually draws near the plateau.",
+      "The wild goose goes gradually draws near the tree.\nPerhaps it will find a flat branch. No blame.",
+      "The wild goose gradually draws near the summit.\nFor three years the woman has no child.\nIn the end nothing can hinder her.\nGood fortune.",
+      "The wild goose gradually draws near the clouds heights.\nIts feathers can be used for the sacred dance.\nGood fortune."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "雷泽归妹",
+    "binary": "001011",
+    "judgment": "THE MARRYING MAIDEN.\nUndertakings bring misfortune.\n\nNothing that would further.",
+    "lines": [
+      "The marrying maiden as a concubine.\nA lame man who is able to tread.\nUndertakings bring good fortune.",
+      "A one-eyed man who is able to see.",
+      "The marrying maiden as a slave.",
+      "The marrying maiden draws out the allotted time.\nA late marriage comes in due course.",
+      "The sovereign I gave his daughter in marriage.",
+      "The woman holds the basket, but there are no fruits in it."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "雷火丰",
+    "binary": "001101",
+    "judgment": "ABUNDANCE has success.\n\nThe king attains abundance.\nBe not sad.\nBe like the sun at midday.",
+    "lines": [
+      "When a man meets his destined ruler,",
+      "The curtain is of such fullness",
+      "The underbrush is of such abundance",
+      "The curtain is of such fullness",
+      "Lines are coming,\nBlessing and fame draw near.\nGood fortune.",
+      "His house is in a state of abundance.\nHe screens off his family.\nHe peers through the gate\nAnd no longer perceives anyone.\nFor three years he sees nothing.\nMisfortune."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "火山旅",
+    "binary": "101100",
+    "judgment": "The Wanderer. Success through smallness.\nPerseverance brings good fortune to the wanderer.\n\nWHEN A man is a wanderer and stranger, he should not be gruff nor overbearing. He has no large circle of acquaintances, therefore he should not give himself airs. He must be cautious and reserved; in this way he protects himself from evil. If he is obliging toward others, he wins success.",
+    "lines": [
+      "If the wanderer busies himself with trivial things,\nHe draws down misfortune upon himself.",
+      "The wanderer comes to an inn.\nHe has his property with him.\nHe wins the steadfastness of a young servant.",
+      "The wanderer's inn burns down.\nHe loses the steadfastness of his young servant.\nDanger.",
+      "The wanderer rests in a shelter.\nHe obtains his property and an ax.\nMy heart is not glad.",
+      "He shoots a pheasant.\nIt drops with the first arrow.\nIn the end this brings both praise and office.",
+      "The bird's nest burns up."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "巽为风",
+    "binary": "110110",
+    "judgment": "THE GENTLE. Success through what is small.\nIt furthers one to have somewhere to go.\nIt furthers one to see the great man.",
+    "lines": [
+      "In advancing and in retreating,",
+      "Penetration under the bed.\nPriests and magicians are used in great number.\nGood fortune. No blame.",
+      "Repeated penetration. Humiliation.",
+      "Remorse vanishes.\nDuring the hunt",
+      "Perseverance brings good fortune.\nRemorse vanishes.",
+      "Penetration under the bed.\nHe loses his property and his ax.\nPerseverance brings misfortune."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "兑为泽",
+    "binary": "011011",
+    "judgment": "THE JOYOUS. Success.\nPerseverance is favorable.",
+    "lines": [
+      "Contented joyousness. Good fortune.",
+      "Sincere joyousness. Good fortune.\nRemorse disappears.",
+      "Coming joyousness. Misfortune.",
+      "Joyousness that is weighed is not at peace.\nAfter ridding himself of mistakes a man has joy.",
+      "Sincerity toward disintegrating influences is dangerous.",
+      "Seductive joyousness."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "风水涣",
+    "binary": "110010",
+    "judgment": "DISPERSION. Success.\n\nThe king approaches his temple.\nIt furthers one to cross the great water.\nPerseverance furthers.\n\nThe text of this hexagram resembles that of Ts'ui, GATHERING TOGETHER",
+    "lines": [
+      "He brings help with the strength of a horse.\nGood fortune.",
+      "At the dissolution\nHe hurries to that which supports him.\nRemorse disappears.",
+      "He dissolves his self. No remorse.",
+      "He dissolves his bond with his group.",
+      "His loud cries are as dissolving as sweat.\nDissolution! A king abides without blame.",
+      "He dissolves his blood.\nDeparting, keeping at a distance, going out,\nIs without blame."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "水泽节",
+    "binary": "010011",
+    "judgment": "LIMITATION. Success.\nGalling limitation must not be persevered in.",
+    "lines": [
+      "Not going out of the door and the courtyard\nIs without blame.",
+      "Not going out of the gate and the courtyard\nBrings misfortune.",
+      "He who knows limitation\nWill have cause to lament.",
+      "Contented limitation. Success.",
+      "Sweet limitation brings good fortune.\nGoing brings esteem.",
+      "Galling limitation.\nPerseverance brings misfortune.\nRemorse disappears."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "风泽中孚",
+    "binary": "110011",
+    "judgment": "INNER TRUTH. Pigs and fishes.\nGood fortune.\nIt furthers one to cross the great water.\nPerseverance furthers.",
+    "lines": [
+      "Being prepared brings good fortune.\nIf there are secret designs, it is disquieting.",
+      "A crane calling in the shade.\nIts young answers it.\nI have a good goblet.\nI will share it with you.",
+      "He finds a comrade.",
+      "The moon nearly at the full.",
+      "He possesses truth, which links together.",
+      "Cockcrow penetrating to heaven.\nPerseverance brings misfortune."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "雷山小过",
+    "binary": "001100",
+    "judgment": "PREPONDERANCE OF THE SMALL. Success.\nPerseverance furthers.\n\nSmall things may be done; great things should not be done.\n\nThe flying bird brings the message:\nIt is not well to strive upward,\nIt is well to remain below.\nGreat good fortune.\n\nExceptional modesty and conscientiousness are sure to be rewarded with success; however, if a man is not to throw himself away, it is important that they should not become empty form and subservience but be combined always with a correct dignity in personal behavior. We must understand the demands of the time in order to find the necessary offset for its deficiencies and damages. In any event we must not count on great success, since the requisite strength is lacking. In this lies the importance of the message that one should not strive after lofty things but hold to lowly things. The structure of the hexagram gives rise to the idea that this message is brought by a bird. In Ta Kuo, PREPONDERANCE OF THE GREAT",
+    "lines": [
+      "The bird meets with misfortune through flying.",
+      "She passes by her ancestor\nAnd meets her ancestress.\nHe does not reach his prince\nAnd meets the official.",
+      "If one is not extremely careful,",
+      "No blame. He meets him without passing by.\nGoing brings danger. One must be on guard.\nDo not act. Be constantly persevering.",
+      "Dense clouds,",
+      "He passes him by, not meeting him."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "水火既济",
+    "binary": "010101",
+    "judgment": "AFTER COMPLETION. Success in small matters.\nPerseverance furthers.\nAt the beginning good fortune.\nAt the end disorder.",
+    "lines": [
+      "He breaks his wheels.\nHe gets his tail in the water.",
+      "The woman loses the curtain of her carriage.\nDo not run after it;\nOn the seventh day you will get it.",
+      "The Illustrious Ancestor\nDisciplines the Devil's Country.\nAfter three years he conquers it.\nInferior people must not be employed.",
+      "The finest clothes turn to rags.\nBe careful all day long.",
+      "The neighbor in the east who slaughters an ox\nDoes not attain as much real happiness\nAs the neighbor in the west\nWith his small offering.",
+      "He gets his head in the water. Danger."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "火水未济",
+    "binary": "101010",
+    "judgment": "BEFORE COMPLETION. Success.\nBut if the little fox, after nearly completing the crossing,\nGets his tail in the water,\n\nThere is nothing that would further.",
+    "lines": [
+      "He gets his tail in the water.\nHumiliating.",
+      "He brakes his wheels.\nPerseverance brings good fortune.",
+      "Before completion, attack brings misfortune.\nIt furthers one to cross the great water.",
+      "Perseverance brings good fortune.\nRemorse disappears.",
+      "Perseverance brings good fortune.",
+      "There is drinking of wine\nIn genuine confidence. No blame.\nBut if one wets his head,\nHe loses it, in truth."
+    ]
+  }
+]

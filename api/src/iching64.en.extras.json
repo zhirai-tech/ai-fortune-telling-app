@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "name": "乾为天",
+    "binary": "111111",
+    "tuan": "",
+    "xiang": "The movement of heaven is full of power.\nThus the superior man makes himself strong and\nuntiring.",
+    "wenyan": ""
+  },
+  {
+    "id": 2,
+    "name": "坤为地",
+    "binary": "000000",
+    "tuan": "",
+    "xiang": "The earth's condition is receptive devotion.\nThus the superior man who has breadth of character\nCarries the outer world.",
+    "wenyan": ""
+  },
+  {
+    "id": 3,
+    "name": "水雷屯",
+    "binary": "010001",
+    "tuan": "",
+    "xiang": "Clouds and thunder:\n\nThe image of DIFFICULTY AT THE BEGINNING.\n\nThus the superior man\nBrings order out of confusion.",
+    "wenyan": ""
+  },
+  {
+    "id": 4,
+    "name": "山水蒙",
+    "binary": "100010",
+    "tuan": "",
+    "xiang": "A spring wells up at the foot of the mountain:\nThe image of YOUTH.\n\nThus the superior man fosters his character\nBy thoroughness in all that he does.",
+    "wenyan": ""
+  },
+  {
+    "id": 5,
+    "name": "水天需",
+    "binary": "010111",
+    "tuan": "",
+    "xiang": "Clouds rise up to heaven:\nThe image of WAITING.\nThus the superior man eats and drinks,\nIs joyous and of good cheer.",
+    "wenyan": ""
+  },
+  {
+    "id": 6,
+    "name": "天水讼",
+    "binary": "111010",
+    "tuan": "",
+    "xiang": "Heaven and water go their opposite ways:\nThe image of CONFLICT.\nThus in all his transactions the superior man\nCarefully considers the beginning.",
+    "wenyan": ""
+  },
+  {
+    "id": 7,
+    "name": "地水师",
+    "binary": "000010",
+    "tuan": "",
+    "xiang": "In the middle of the earth is water:\nThe image of THE ARMY.\n\nThus the superior man increases his masses\nBy generosity toward the people.",
+    "wenyan": ""
+  },
+  {
+    "id": 8,
+    "name": "水地比",
+    "binary": "010000",
+    "tuan": "",
+    "xiang": "On the earth is water:\nThe image of HOLDING TOGETHER.\n\nThus the kings of antiquity\nBestowed the different states as fiefs\nAnd cultivated friendly relations\nWith the feudal lords.",
+    "wenyan": ""
+  },
+  {
+    "id": 9,
+    "name": "风天小畜",
+    "binary": "110111",
+    "tuan": "",
+    "xiang": "The wind drives across heaven:\nThe image of THE TAMING POWER OF THE SMALL.Thus the superior man\nRefines the outward aspect of his nature.",
+    "wenyan": ""
+  },
+  {
+    "id": 10,
+    "name": "天泽履",
+    "binary": "111011",
+    "tuan": "",
+    "xiang": "Heaven above, the lake below:\nThe image of TREADING.\n\nThus the superior man discriminates between high and low,\nAnd thereby fortifies the thinking of the people.",
+    "wenyan": ""
+  },
+  {
+    "id": 11,
+    "name": "地天泰",
+    "binary": "000111",
+    "tuan": "",
+    "xiang": "Heaven and earth unite: the image of PEACE.\nThus the ruler\nDivides and completes the course of heaven and earth,\nAnd so aids the people.",
+    "wenyan": ""
+  },
+  {
+    "id": 12,
+    "name": "天地否",
+    "binary": "111000",
+    "tuan": "",
+    "xiang": "Heaven and earth do not unite:\nThe image of STANDSTILL.\nThus the superior man falls back upon his inner worth\nIn order to escape the difficulties.\nHe does not permit himself to be honored with revenue.",
+    "wenyan": ""
+  },
+  {
+    "id": 13,
+    "name": "天火同人",
+    "binary": "111101",
+    "tuan": "",
+    "xiang": "Heaven together with fire:\n\nThe image of FELLOWSHIP WITH MEN.\nThus the superior man organizes the clans\nAnd makes distinctions between things.",
+    "wenyan": ""
+  },
+  {
+    "id": 14,
+    "name": "火天大有",
+    "binary": "101111",
+    "tuan": "",
+    "xiang": "Fire in heaven above:\n\nThe image of POSSESSION IN GREAT MEASURE.\nThus the superior man curbs evil and furthers good,\nAnd thereby obeys the benevolent will of heaven.",
+    "wenyan": ""
+  },
+  {
+    "id": 15,
+    "name": "地山谦",
+    "binary": "000100",
+    "tuan": "",
+    "xiang": "Within the earth, a mountain:\n\nThe image of MODESTY.\n\nThus the superior man reduces that which is too much,\nAnd augments that which is too little.\nHe weighs things and makes them equal.",
+    "wenyan": ""
+  },
+  {
+    "id": 16,
+    "name": "雷地豫",
+    "binary": "001000",
+    "tuan": "",
+    "xiang": "Thunder comes resounding out of the earth:\nThe image of ENTHUSIASM.\nThus the ancient kings made music\nIn order to honor merit,\nAnd offered it with splendor\nTo the Supreme Deity,\nInviting their ancestors to be present.",
+    "wenyan": ""
+  },
+  {
+    "id": 17,
+    "name": "泽雷随",
+    "binary": "011001",
+    "tuan": "",
+    "xiang": "Thunder in the middle of the lake:\nThe image of FOLLOWING.\nThus the superior man at nightfall\nGoes indoors for rest and recuperation.",
+    "wenyan": ""
+  },
+  {
+    "id": 18,
+    "name": "山风蛊",
+    "binary": "100110",
+    "tuan": "",
+    "xiang": "The wind blows low on the mountain:\nThe image of DECAY.\nThus the superior man stirs up the people\nAnd strengthens their spirit.",
+    "wenyan": ""
+  },
+  {
+    "id": 19,
+    "name": "地泽临",
+    "binary": "000011",
+    "tuan": "",
+    "xiang": "The earth above the lake:\nThe image of APPROACH.\nThus the superior man is inexhaustible\nIn his will to teach,\nAnd without limits\nIn his tolerance and protection of the people.",
+    "wenyan": ""
+  },
+  {
+    "id": 20,
+    "name": "风地观",
+    "binary": "110000",
+    "tuan": "",
+    "xiang": "The wind blows over the earth:\nThe image of CONTEMPLATION.\nThus the kings of old visited the regions of the world,\nContemplated the people,\nAnd gave them instruction.",
+    "wenyan": ""
+  },
+  {
+    "id": 21,
+    "name": "火雷噬嗑",
+    "binary": "101001",
+    "tuan": "",
+    "xiang": "Thunder and lighting:\nThe image of BITING THROUGH.\nThus the kings of former times made firm the laws\nThrough clearly defined penalties.",
+    "wenyan": ""
+  },
+  {
+    "id": 22,
+    "name": "山火贲",
+    "binary": "100101",
+    "tuan": "",
+    "xiang": "Fire at the foot of the mountain:\n\nThe image of GRACE.\nThus does the superior man proceed\nWhen clearing up current affairs.\nBut he dare not decide controversial issues in this way.",
+    "wenyan": ""
+  },
+  {
+    "id": 23,
+    "name": "山地剥",
+    "binary": "100000",
+    "tuan": "",
+    "xiang": "The mountain rests on the earth:\nThe image of SPLITTING APART.\nThus those above can ensure their position\nOnly by giving generously to those below.",
+    "wenyan": ""
+  },
+  {
+    "id": 24,
+    "name": "地雷复",
+    "binary": "000001",
+    "tuan": "",
+    "xiang": "Thunder within the earth:\nThe image of THE TURNING POINT.\nThus the kings of antiquity closed the passes\nAt the time of solstice.\nMerchants and strangers did not go about,\nAnd the ruler\nDid not travel through the provinces.",
+    "wenyan": ""
+  },
+  {
+    "id": 25,
+    "name": "天雷无妄",
+    "binary": "111001",
+    "tuan": "",
+    "xiang": "Under heaven thunder rolls:\nAll things attain the natural state of innocence.\n\nThus the kings of old,\nRich in virtue, and in harmony with the time,\nFostered and nourished all beings.",
+    "wenyan": ""
+  },
+  {
+    "id": 26,
+    "name": "山天大畜",
+    "binary": "100111",
+    "tuan": "",
+    "xiang": "Heaven within the mountain:\n\nThe image of THE TAMING POWER OF THE GREAT.\n\nThus the superior man acquaints himself with many sayings of antiquity\nAnd many deeds of the past,\nIn order to strengthen his character thereby.",
+    "wenyan": ""
+  },
+  {
+    "id": 27,
+    "name": "山雷颐",
+    "binary": "100001",
+    "tuan": "",
+    "xiang": "At the foot of the mountain, thunder:\n\nThe image of PROVIDING NOURISHMENT.\n\nThus the superior man is careful of his words\nAnd temperate in eating and drinking.",
+    "wenyan": ""
+  },
+  {
+    "id": 28,
+    "name": "泽风大过",
+    "binary": "011110",
+    "tuan": "",
+    "xiang": "The lake rises above the trees:\n\nThe image of PREPONDERANCE OF THE GREAT.\n\nThus the superior man, when he stands alone,\nIs unconcerned,\nAnd if he has to renounce the world,\nHe is undaunted.",
+    "wenyan": ""
+  },
+  {
+    "id": 29,
+    "name": "坎为水",
+    "binary": "010010",
+    "tuan": "",
+    "xiang": "Water flows on uninterruptedly and reaches its foal:\n\nThe image of the Abysmal repeated.\n\nThus the superior man walks in lasting virtue\nAnd carries on the business of teaching.",
+    "wenyan": ""
+  },
+  {
+    "id": 30,
+    "name": "离为火",
+    "binary": "101101",
+    "tuan": "",
+    "xiang": "That which is bright rises twice:\n\nThe image of FIRE.\n\nThus the great man, by perpetuating this brightness,\nIllumines the four quarters of the world.",
+    "wenyan": ""
+  },
+  {
+    "id": 31,
+    "name": "泽山咸",
+    "binary": "011100",
+    "tuan": "",
+    "xiang": "A lake on the mountain:\n\nThe image of influence.\n\nThus the superior man encourages people to approach him\nBy his readiness to receive them.",
+    "wenyan": ""
+  },
+  {
+    "id": 32,
+    "name": "雷风恒",
+    "binary": "001110",
+    "tuan": "",
+    "xiang": "Thunder and wind: the image of DURATION.\n\nThus the superior man stands firm\nAnd does not change has direction.",
+    "wenyan": ""
+  },
+  {
+    "id": 33,
+    "name": "天山遯",
+    "binary": "111100",
+    "tuan": "",
+    "xiang": "Mountain under heaven: the image of RETREAT.\n\nThus the superior man keeps the inferior man at a distance,\n\nNot angrily but with reserve.",
+    "wenyan": ""
+  },
+  {
+    "id": 34,
+    "name": "雷天大壮",
+    "binary": "001111",
+    "tuan": "",
+    "xiang": "Thunder in heaven above:\n\nThe image of THE POWER OF THE GREAT.\n\nThus the superior man does not tread upon paths\n\nThat do not accord with established order.",
+    "wenyan": ""
+  },
+  {
+    "id": 35,
+    "name": "火地晋",
+    "binary": "101000",
+    "tuan": "",
+    "xiang": "The sun rises over the earth:\n\nThe image of PROGRESS.\n\nThus the superior man himself\nBrightens his bright virtue.",
+    "wenyan": ""
+  },
+  {
+    "id": 36,
+    "name": "地火明夷",
+    "binary": "000101",
+    "tuan": "",
+    "xiang": "The light has sunk into the earth:\n\nThe image of DARKENING OF THE LIGHT.\n\nThus does the superior man live with the great mass:\nHe veils his light, yet still shines.",
+    "wenyan": ""
+  },
+  {
+    "id": 37,
+    "name": "风火家人",
+    "binary": "110101",
+    "tuan": "",
+    "xiang": "Wind comes forth from fire:\n\nThe image of THE FAMILY.Thus the superior man has substance in his words\nAnd duration in his way of life.",
+    "wenyan": ""
+  },
+  {
+    "id": 38,
+    "name": "火泽睽",
+    "binary": "101011",
+    "tuan": "",
+    "xiang": "Above, fire; below. The lake.\n\nThe image of OPPOSITION.\n\nThus amid all fellowship\n\nThe superior man retains his individuality.",
+    "wenyan": ""
+  },
+  {
+    "id": 39,
+    "name": "水山蹇",
+    "binary": "010100",
+    "tuan": "",
+    "xiang": "Water on the mountain:\n\nThe image of OBSTRUCTION.\n\nThus the superior man turns his attention to himself\nAnd molds his character.",
+    "wenyan": ""
+  },
+  {
+    "id": 40,
+    "name": "雷水解",
+    "binary": "001010",
+    "tuan": "",
+    "xiang": "Thunder and rain set in:\n\nThe image of DELIVERANCE.\n\nThus the superior man pardons mistakes\nAnd forgives misdeeds.",
+    "wenyan": ""
+  },
+  {
+    "id": 41,
+    "name": "山泽损",
+    "binary": "100011",
+    "tuan": "",
+    "xiang": "At the foot of the mountain, the lake:\n\nThe image of DECREASE.\n\nThus the superior man controls his anger\nAnd restrains his instincts.",
+    "wenyan": ""
+  },
+  {
+    "id": 42,
+    "name": "风雷益",
+    "binary": "110001",
+    "tuan": "",
+    "xiang": "Wind and thunder: the image of INCREASE.\n\nThus the superior man:\nIf he sees good, he imitates it;\nIf he has faults, he rids himself of them.",
+    "wenyan": ""
+  },
+  {
+    "id": 43,
+    "name": "泽天夬",
+    "binary": "011111",
+    "tuan": "",
+    "xiang": "The lake has risen up to heaven:\n\nThe image of BREAK-THROUGH.\n\nThus the superior man\nDispenses riches downward\nAnd refrains from resting on his virtue.",
+    "wenyan": ""
+  },
+  {
+    "id": 44,
+    "name": "天风姤",
+    "binary": "111110",
+    "tuan": "",
+    "xiang": "Under heaven, wind:\n\nThe image of COMING TO MEET.\n\nThus does the prince act when disseminating his commands\nAnd proclaiming them to the four quarters of heaven.",
+    "wenyan": ""
+  },
+  {
+    "id": 45,
+    "name": "泽地萃",
+    "binary": "011000",
+    "tuan": "",
+    "xiang": "Over the earth, the lake:\n\nThe image of GATHERING TOGETHER.\n\nThus the superior man renews his weapons\nIn order to meet the unforeseen.",
+    "wenyan": ""
+  },
+  {
+    "id": 46,
+    "name": "地风升",
+    "binary": "000110",
+    "tuan": "",
+    "xiang": "Within the earth, wood grows:\n\nThe image of PUSHING UPWARD.\n\nThus the superior man of devoted character\nHeaps up small things\nIn order to achieve something high and great.",
+    "wenyan": ""
+  },
+  {
+    "id": 47,
+    "name": "泽水困",
+    "binary": "011010",
+    "tuan": "",
+    "xiang": "There is not water in the lake:\n\nThe image of EXHAUSTION.\n\nThus the superior man stakes his life\nOn following his will.",
+    "wenyan": ""
+  },
+  {
+    "id": 48,
+    "name": "水风井",
+    "binary": "010110",
+    "tuan": "",
+    "xiang": "Water over wood: the image of THE WELL.\n\nThus the superior man encourages the people at their work,\nAnd exhorts them to help one another.",
+    "wenyan": ""
+  },
+  {
+    "id": 49,
+    "name": "泽火革",
+    "binary": "011101",
+    "tuan": "",
+    "xiang": "Fire in the lake: the image of REVOLUTION.\n\nThus the superior man\n\nSets the calendar in order\nAnd makes the seasons clear.",
+    "wenyan": ""
+  },
+  {
+    "id": 50,
+    "name": "火风鼎",
+    "binary": "101110",
+    "tuan": "",
+    "xiang": "Fire over wood:\n\nThe image of THE CALDRON.\n\nThus the superior man consolidates his fate\nBy making his position correct.",
+    "wenyan": ""
+  },
+  {
+    "id": 51,
+    "name": "震为雷",
+    "binary": "001001",
+    "tuan": "",
+    "xiang": "Thunder repeated: the image of SHOCK.\n\nThus in fear and trembling\n\nThe superior man sets his life in order\nAnd examines himself.",
+    "wenyan": ""
+  },
+  {
+    "id": 52,
+    "name": "艮为山",
+    "binary": "100100",
+    "tuan": "",
+    "xiang": "Mountains standing close together:\n\nThe image of KEEPING STILL.\n\nThus the superior man\nDoes not permit his thoughts\n\nTo go beyond his situation.",
+    "wenyan": ""
+  },
+  {
+    "id": 53,
+    "name": "风山渐",
+    "binary": "110100",
+    "tuan": "",
+    "xiang": "On the mountain, a tree:\n\nThe image of DEVELOPMENT.\n\nThus the superior man abides in dignity and virtue,\nIn order to improve the mores.",
+    "wenyan": ""
+  },
+  {
+    "id": 54,
+    "name": "雷泽归妹",
+    "binary": "001011",
+    "tuan": "",
+    "xiang": "Thunder over the lake:\n\nThe image of THE MARRYING MAIDEN.\n\nThus the superior man\nUnderstands the transitory\nIn the light of the eternity of the end.",
+    "wenyan": ""
+  },
+  {
+    "id": 55,
+    "name": "雷火丰",
+    "binary": "001101",
+    "tuan": "",
+    "xiang": "Both thunder and lightning come:\n\nThe image of ABUNDANCE.\n\nThus the superior man decides lawsuits\nAnd carries out punishments.\n\nThis hexagram has a certain connection with Shih Ho, BITING THROUGH",
+    "wenyan": ""
+  },
+  {
+    "id": 56,
+    "name": "火山旅",
+    "binary": "101100",
+    "tuan": "",
+    "xiang": "Fire on the mountain:\n\nThe image of THE WANDERER.\n\nThus the superior man\nIs clear-minded and cautious\nIn imposing penalties,\nAnd protracts no lawsuits.",
+    "wenyan": ""
+  },
+  {
+    "id": 57,
+    "name": "巽为风",
+    "binary": "110110",
+    "tuan": "",
+    "xiang": "Winds following one upon the other:\n\nThe image of THE GENTLY PENETRATING.\n\nThus the superior man\n\nSpreads his commands abroad\nAnd carries out his undertakings.",
+    "wenyan": ""
+  },
+  {
+    "id": 58,
+    "name": "兑为泽",
+    "binary": "011011",
+    "tuan": "",
+    "xiang": "Lakes resting one on the other:\n\nThe image of THE JOYOUS.\n\nThus the superior man joins with his friends\nFor discussion and practice.",
+    "wenyan": ""
+  },
+  {
+    "id": 59,
+    "name": "风水涣",
+    "binary": "110010",
+    "tuan": "",
+    "xiang": "The wind drives over the water:\n\nThe image of DISPERSION.\n\nThus the kings of old sacrificed to the Lord\nAnd built temples.",
+    "wenyan": ""
+  },
+  {
+    "id": 60,
+    "name": "水泽节",
+    "binary": "010011",
+    "tuan": "",
+    "xiang": "Water over lake: the image of LIMITATION.\n\nThus the superior man\nCreates number and measure,\nAnd examines the nature of virtue and correct conduct.",
+    "wenyan": ""
+  },
+  {
+    "id": 61,
+    "name": "风泽中孚",
+    "binary": "110011",
+    "tuan": "",
+    "xiang": "Wind over lake: the image of INNER TRUTH.\n\nThus the superior man discusses criminal cases\nIn order to delay executions.",
+    "wenyan": ""
+  },
+  {
+    "id": 62,
+    "name": "雷山小过",
+    "binary": "001100",
+    "tuan": "",
+    "xiang": "Thunder on the mountain:\n\nThe image of PREPONDERANCE OF THE SMALL.\n\nThus in his conduct the superior man gives preponderance to reverence.\nIn bereavement he gives preponderance to grief.\nIn his expenditures he gives preponderance to thrift.",
+    "wenyan": ""
+  },
+  {
+    "id": 63,
+    "name": "水火既济",
+    "binary": "010101",
+    "tuan": "",
+    "xiang": "Water over fire: the image of the condition\nIn AFTER COMPLETION.\n\nThus the superior man\n\nTakes thought of misfortune\nAnd arms himself against it in advance.",
+    "wenyan": ""
+  },
+  {
+    "id": 64,
+    "name": "火水未济",
+    "binary": "101010",
+    "tuan": "",
+    "xiang": "Fire over water:\n\nThe image of the condition before transition.\n\nThus the superior man is careful\nIn the differentiation of things,\n\nSo that each finds its place.",
+    "wenyan": ""
+  }
+]

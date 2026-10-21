@@ -1,0 +1,10 @@
+{
+  "111": { "name": "Qian", "nature": "Heaven", "keywords": ["strength", "initiative", "self-discipline", "principle"] },
+  "000": { "name": "Kun", "nature": "Earth", "keywords": ["receptive", "support", "cooperation", "stability"] },
+  "010": { "name": "Kan", "nature": "Water", "keywords": ["risk", "flow", "caution", "adaptation"] },
+  "101": { "name": "Li", "nature": "Fire", "keywords": ["clarity", "insight", "attachment", "expression"] },
+  "001": { "name": "Zhen", "nature": "Thunder", "keywords": ["movement", "start", "wake-up", "decisiveness"] },
+  "110": { "name": "Xun", "nature": "Wind", "keywords": ["penetration", "influence", "gentle persistence", "go-with-the-flow"] },
+  "100": { "name": "Gen", "nature": "Mountain", "keywords": ["stillness", "boundaries", "restraint", "pause"] },
+  "011": { "name": "Dui", "nature": "Lake", "keywords": ["joy", "communication", "negotiation", "trust"] }
+}

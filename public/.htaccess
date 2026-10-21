@@ -1,0 +1,23 @@
+<IfModule mod_mime.c>
+  AddType application/javascript .js .mjs
+  AddType text/css .css
+  AddType image/svg+xml .svg
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  RewriteRule ^index\.html$ - [L]
+
+  RewriteRule ^(assets|images|avatars)/ - [L]
+  RewriteRule ^(favicon\.svg|runtime-config\.js)$ - [L]
+  RewriteCond %{REQUEST_URI} \.(?:js|mjs|css|svg|png|jpe?g|webp|gif|ico|json|map)$ [NC]
+  RewriteRule . - [L]
+
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  RewriteRule . /index.html [L]
+</IfModule>

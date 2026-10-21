@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-deep-blue text-gray-200 font-sans min-h-screen overflow-x-hidden;
+    font-family: Tahoma, Geneva, sans-serif;
+    position: relative;
+  }
+
+  #root {
+    position: relative;
+    z-index: 1;
+  }
+
+  @keyframes spin-cw {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes spin-ccw {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(-360deg);
+    }
+  }
+
+  .spin-cw {
+    animation: spin-cw 120s linear infinite;
+  }
+
+  .spin-ccw {
+    animation: spin-ccw 120s linear infinite;
+  }
+
+  @keyframes cloud-float {
+    0% {
+      transform: translate(-50%, -50%) translateX(-22px);
+    }
+    50% {
+      transform: translate(-50%, -50%) translateX(22px);
+    }
+    100% {
+      transform: translate(-50%, -50%) translateX(-22px);
+    }
+  }
+
+  .cloud-float {
+    animation-name: cloud-float;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+
+  @keyframes fog-pass-right {
+    0% {
+      transform: translate(-50%, -50%) translateX(-180%);
+    }
+    100% {
+      transform: translate(-50%, -50%) translateX(180%);
+    }
+  }
+
+  @keyframes fog-pass-left {
+    0% {
+      transform: translate(-50%, -50%) translateX(180%) scaleX(-1);
+    }
+    100% {
+      transform: translate(-50%, -50%) translateX(-180%) scaleX(-1);
+    }
+  }
+
+  .fog-drift-right {
+    animation-name: fog-pass-right;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    will-change: transform;
+  }
+
+  .fog-drift-left {
+    animation-name: fog-pass-left;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    will-change: transform;
+  }
+  
+  .font-serif,
+  .font-sans {
+    font-family: Tahoma, Geneva, sans-serif !important;
+  }
+
+  .text-gray-400 {
+    color: rgba(255, 255, 255, 0.86) !important;
+  }
+
+  .text-gray-300 {
+    color: rgba(255, 255, 255, 0.90) !important;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply relative px-6 py-2 rounded-lg bg-transparent border border-dark-gold text-dark-gold font-serif transition-all duration-300 hover:bg-dark-gold hover:text-deep-blue hover:shadow-[0_0_15px_rgba(212,175,55,0.5)];
+  }
+  
+  .card-container {
+    @apply border border-white/10 rounded-xl p-6 shadow-xl relative overflow-hidden;
+    background-color: rgba(71, 85, 105, 0.52);
+  }
+
+  body.theme-solid .card-container {
+    background-color: rgba(71, 85, 105, 0.60);
+    backdrop-filter: none;
+  }
+  
+  .input-field {
+    @apply w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-dark-gold focus:ring-1 focus:ring-dark-gold transition-colors;
+  }
+
+  .clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
