@@ -1,3 +1,11 @@
+> **简体中文 | English**
+>
+> 易经 AI 算命：六十四卦/八字排盘 + AI 解读。前端 React/Vite，后端 Node/Supabase Edge Functions；本 README 主要说明开发与本地启动。
+>
+> **Yijing AI Divination**: I Ching hexagrams and BaZi charting with AI interpretation. React/Vite frontend and Node/Supabase Edge Functions backend; this README focuses on development and local setup.
+
+---
+
 # 开发（复用你已部署的 Supabase 通用后端）
 
 本仓库默认只启动：
