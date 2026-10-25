@@ -1,6 +1,6 @@
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-# Yijing AI Divination
+# AI Fortune Telling App
 
 I Ching hexagram and BaZi charting with AI interpretation.
 
