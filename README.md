@@ -6,7 +6,12 @@
 
 ---
 
-# 开发（复用你已部署的 Supabase 通用后端）
+# Yijing AI Divination — Developer Setup / 易经 AI 算命 — 开发
+
+> **English** | [简体中文](#简体中文)
+>
+> Yijing AI Divination: I Ching hexagram and BaZi charting with AI interpretation. React/Vite frontend, Node/Supabase Edge Functions backend. This README covers development and local setup.
+
 
 本仓库默认只启动：
 
