@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [Personal Website](https://zhinian-ai.com)
 
 # AI Fortune Telling App
 
@@ -17,3 +17,9 @@ Development repository. External AI and Supabase credentials are required for fu
 
 ## License
 MIT License; retain LICENSE and NOTICE. Third-party components remain under their own licenses.
+
+---
+
+## Personal Website
+
+**ZHIRAI / 智睿科技** — [zhinian-ai.com](https://zhinian-ai.com)
